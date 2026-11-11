@@ -1,0 +1,57 @@
+{
+  "airplane": {
+    "loaded": 151623,
+    "too_long": 12,
+    "same_label_duplicate": 11,
+    "conflicting_label_duplicate": 1
+  },
+  "apple": {
+    "loaded": 144722,
+    "conflicting_label_duplicate": 4,
+    "too_long": 6,
+    "same_label_duplicate": 1
+  },
+  "bicycle": {
+    "loaded": 126527,
+    "too_long": 2
+  },
+  "bird": {
+    "loaded": 133572,
+    "too_long": 13,
+    "same_label_duplicate": 15,
+    "conflicting_label_duplicate": 1
+  },
+  "car": {
+    "loaded": 182764,
+    "too_long": 11,
+    "same_label_duplicate": 6,
+    "conflicting_label_duplicate": 4
+  },
+  "cat": {
+    "loaded": 123202,
+    "same_label_duplicate": 9,
+    "too_long": 5,
+    "conflicting_label_duplicate": 1
+  },
+  "chair": {
+    "loaded": 222706,
+    "same_label_duplicate": 27,
+    "too_long": 18,
+    "conflicting_label_duplicate": 3
+  },
+  "dog": {
+    "loaded": 152159,
+    "too_long": 21,
+    "same_label_duplicate": 4
+  },
+  "fish": {
+    "loaded": 134150,
+    "too_long": 1
+  },
+  "flower": {
+    "loaded": 144818,
+    "conflicting_label_duplicate": 1,
+    "too_long": 3,
+    "same_label_duplicate": 1
+  }
+}

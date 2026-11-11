@@ -1,0 +1,28 @@
+# Data (downloaded from Google; never committed)
+data/
+*.ndjson
+*.pkl
+/*_ids.csv
+
+# Training outputs and model weights
+runs/
+*.pt
+*.pth
+
+# Large prediction dumps (summary.json / summary.md may be committed)
+results/predictions/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
