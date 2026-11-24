@@ -1,0 +1,37 @@
+{
+  "n": 40000,
+  "points": {
+    "mean": 47.6994,
+    "median": 45.0,
+    "p95": 83.0,
+    "min": 2,
+    "max": 485
+  },
+  "strokes": {
+    "mean": 5.680475,
+    "median": 5.0,
+    "p95": 13.0,
+    "min": 1,
+    "max": 144
+  },
+  "eligible_split_locations": {
+    "mean": 36.33845,
+    "median": 34.0,
+    "p95": 65.0,
+    "min": 0,
+    "max": 481
+  },
+  "no_eligible_point": 10,
+  "median_strokes_by_category": {
+    "airplane": 4.0,
+    "apple": 3.0,
+    "bicycle": 7.0,
+    "bird": 6.0,
+    "car": 4.0,
+    "cat": 10.0,
+    "chair": 5.0,
+    "dog": 7.0,
+    "fish": 3.0,
+    "flower": 3.0
+  }
+}
